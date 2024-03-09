@@ -82,10 +82,10 @@ Run terraform plan then terraform apply to apply the changes . Thse changes can 
 
 console 
 
-![Screenshot 2024-03-09 030358](https://github.com/NANA-2016/TERRAFORM/assets/141503408/219b59dd-868c-4c6f-ac52-f162751bac3d)
+![Screenshot 2024-03-08 130041](https://github.com/NANA-2016/TERRAFORM/assets/141503408/5c6514fd-b31c-4a90-89c3-22a59ef70291)
 
 
-![Screenshot 2024-03-09 030141](https://github.com/NANA-2016/TERRAFORM/assets/141503408/9acde679-9f3a-4b90-bdd3-676230fb7ec1)
+![Screenshot 2024-03-08 125859](https://github.com/NANA-2016/TERRAFORM/assets/141503408/49f45cec-e211-4861-9729-f5e026d17ee3)
 
 ## INTRODUCTION OF VARIABLES(To stop hard coding )
 
